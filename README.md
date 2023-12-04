@@ -1,1 +1,1 @@
-# INFSCI2415_FInal_Project
+# INFSCI2415_Final_Project
